@@ -6,7 +6,7 @@
 ## 📌 Project Overview
 This project analyzes **water accessibility and budget allocation** across multiple provinces, uncovering key trends in **funding distribution, population impact, and infrastructure improvements**. Using **Power BI**, I developed an interactive report to present findings and support **data-driven decision-making**.
 
-![](p1.jpg)
+![](p1.png)
 
 ## 🛠 Technical Skills Applied
 - **Power BI** – Data visualization & dashboard development
@@ -14,6 +14,8 @@ This project analyzes **water accessibility and budget allocation** across multi
 - **Power Query** – Data cleaning & transformation for analysis
 - **Data Modeling (Star Schema)** – Structuring relationships for optimized performance
 - **ETL Processes** – Extract, transform & load data into a structured format
+
+![](p4.png)
 
 ## 🔍 Dataset Overview
 The dataset consists of:
