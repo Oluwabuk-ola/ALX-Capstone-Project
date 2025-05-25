@@ -15,7 +15,7 @@ This project analyzes **water accessibility and budget allocation** across multi
 - **Data Modeling (Star Schema)** – Structuring relationships for optimized performance
 - **ETL Processes** – Extract, transform & load data into a structured format
 
-![](p4.png)
+![](p5.png)
 
 ## 🔍 Dataset Overview
 The dataset consists of:
