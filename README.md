@@ -41,6 +41,8 @@ The dataset consists of:
   - **Budget-to-Population Ratios**
   - **Year-over-Year Improvement Trends**
   - **Urban vs. Rural Access Disparities**
+ 
+  ![](p2.png)
 
 ### 4️⃣ Visualization & Dashboard Design
 - Developed **interactive Power BI dashboards** with:
